@@ -11,6 +11,7 @@ namespace NQueenProblem
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("xx");
         }
 
         void PlaceQueens(int size,int row, int col,List<string> positions)
