@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueenProblem", "NQueenProb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanEvaluation", "BooleanEvaluation\BooleanEvaluation.csproj", "{6ABC592F-65D6-438E-B29D-E75FDB482373}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitOperations", "ConsoleApp5\BitOperations.csproj", "{B4CEA255-EB62-4C11-94FD-71DB489FCBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Findmedian", "Findmedian\Findmedian.csproj", "{D473E123-17F8-4C71-8E22-910A08AA1243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{6ABC592F-65D6-438E-B29D-E75FDB482373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ABC592F-65D6-438E-B29D-E75FDB482373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ABC592F-65D6-438E-B29D-E75FDB482373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CEA255-EB62-4C11-94FD-71DB489FCBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CEA255-EB62-4C11-94FD-71DB489FCBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CEA255-EB62-4C11-94FD-71DB489FCBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CEA255-EB62-4C11-94FD-71DB489FCBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D473E123-17F8-4C71-8E22-910A08AA1243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D473E123-17F8-4C71-8E22-910A08AA1243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D473E123-17F8-4C71-8E22-910A08AA1243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D473E123-17F8-4C71-8E22-910A08AA1243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

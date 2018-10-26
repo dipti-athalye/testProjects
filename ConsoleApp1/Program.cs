@@ -10,8 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int n = 5;
-            moveTower(n, "A", "B", "C");
+            //int n = 5;
+            //moveTower(n, "A", "B", "C");
+            //Console.ReadLine();
+            int x = -3, y = 5;
+             if (oppositeSigns(x, y) == true)
+                Console.Write("Signs are opposite");
+            else
+                Console.Write("Signs are not opposite");
             Console.ReadLine();
         }
 
@@ -26,6 +32,12 @@ namespace ConsoleApp1
                 Console.WriteLine("Move " + source + " to " + dest);
                 moveTower(n - 1, temp, source, dest);
             }
+        }
+
+        static bool oppositeSigns(int x, int y)
+        {
+            var c =  (x ^ y);
+            return c< 0;
         }
     }
 }
