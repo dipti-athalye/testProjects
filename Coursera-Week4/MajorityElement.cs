@@ -9,7 +9,7 @@ namespace MajorityElement
 
     class MajorityElement
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             long inputLength = Convert.ToInt64(Console.ReadLine());
             var input1str = Console.ReadLine().Split(' ');

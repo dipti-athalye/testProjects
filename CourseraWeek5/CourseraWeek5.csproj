@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0CB3250D-4333-4595-A8C9-73BA2385ED5A}</ProjectGuid>
+    <ProjectGuid>{5C545683-F5C7-4F85-952B-DDD782834583}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Coursera_Week4</RootNamespace>
-    <AssemblyName>Coursera-Week4</AssemblyName>
+    <RootNamespace>CourseraWeek5</RootNamespace>
+    <AssemblyName>CourseraWeek5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,11 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MajorityElement.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="MonyChangeDP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Randomized3wayQuicksort.cs" />
-    <Compile Include="StackImplementation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

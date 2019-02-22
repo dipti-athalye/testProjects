@@ -1,0 +1,7 @@
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\bin\Debug\Coursera-Week4.exe.config
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\bin\Debug\Coursera-Week4.exe
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\bin\Debug\Coursera-Week4.pdb
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\obj\Debug\Coursera-Week4.csprojResolveAssemblyReference.cache
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\obj\Debug\Coursera-Week4.csproj.CoreCompileInputs.cache
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\obj\Debug\Coursera-Week4.exe
+C:\Users\dathalye\Source\Repos\testProjects4\Coursera-Week4\obj\Debug\Coursera-Week4.pdb

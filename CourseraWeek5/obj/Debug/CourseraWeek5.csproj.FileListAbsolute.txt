@@ -1,0 +1,7 @@
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\obj\Debug\CourseraWeek5.csprojResolveAssemblyReference.cache
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\obj\Debug\CourseraWeek5.csproj.CoreCompileInputs.cache
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\bin\Debug\CourseraWeek5.exe.config
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\bin\Debug\CourseraWeek5.exe
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\bin\Debug\CourseraWeek5.pdb
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\obj\Debug\CourseraWeek5.exe
+C:\Users\dathalye\Source\Repos\testProjects4\CourseraWeek5\obj\Debug\CourseraWeek5.pdb

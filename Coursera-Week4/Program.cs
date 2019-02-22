@@ -16,7 +16,7 @@ namespace Coursera_Week4
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             var input1str = Console.ReadLine().Split(' ');
             long[] input1_nbr = new long[input1str.Length - 1];
